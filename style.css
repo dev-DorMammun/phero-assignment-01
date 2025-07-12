@@ -3,7 +3,7 @@ body {
   background-color: #f5f8ff;
 }
 header {
-  background: url(./Assets/Hero-bg.png);
+  background: url(../Assets/Hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 200px;
